@@ -1,0 +1,22 @@
+{
+  "availableHouses": [
+    {
+      "id": "house1",
+      "name": "Cozy Cottage",
+      "version": "1.1",
+      "downloadUrl": "http://localhost:8080/house1.zip",
+      "rooms": [
+        {"id": "house1_kitchen", "name": "Kitchen", "isStartingRoom": true}
+      ]
+    },
+    {
+      "id": "house2",
+      "name": "Modern Loft",
+      "version": "1.0",
+      "downloadUrl": "http://localhost:8080/house2.zip",
+      "rooms": [
+        {"id": "house2_living", "name": "Living Room", "isStartingRoom": true}
+      ]
+    }
+  ]
+}
